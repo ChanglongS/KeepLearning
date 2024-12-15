@@ -1,0 +1,5 @@
+2022-03-25 10:29:41,638 - 3 日志即输出到文件-也输出到屏幕.py[line:26] - DEBUG: 这是 logger debug message
+2022-03-25 10:29:41,639 - 3 日志即输出到文件-也输出到屏幕.py[line:27] - INFO: 这是 logger info message
+2022-03-25 10:29:41,639 - 3 日志即输出到文件-也输出到屏幕.py[line:28] - WARNING: 这是 logger warning message
+2022-03-25 10:29:41,639 - 3 日志即输出到文件-也输出到屏幕.py[line:29] - ERROR: 这是 logger error message
+2022-03-25 10:29:41,639 - 3 日志即输出到文件-也输出到屏幕.py[line:30] - CRITICAL: 这是 logger critical message

@@ -1,0 +1,4 @@
+人生苦短，我用python
+hello
+world
+hi
